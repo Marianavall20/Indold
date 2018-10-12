@@ -1,0 +1,190 @@
+/*Caja1*/
+.caja1 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja1:hover {
+    background-color: rgb(188, 141, 231);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja2*/
+.caja2 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja2:hover {
+    background-color: rgb(124, 230, 221);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja3*/
+.caja3 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja3:hover {
+    background-color: rgb(176, 220, 255);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja4*/
+.caja4 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja4:hover {
+    background-color: rgb(255, 177, 216);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja5*/
+.caja5 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja5:hover {
+    background-color: rgb(110, 66, 212);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja6*/
+.caja6 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja6:hover {
+    background-color: rgb(255, 185, 104);
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Caja7*/
+.caja7 {
+    background-color: #fff;
+    padding: 40px;
+    width: 230px;
+    margin-top: 50px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px #dfdfdf;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fff;
+    text-decoration: none;
+}
+
+.caja7:hover {
+    background-color: rgb(86, 165, 255);
+    color: #fff;
+    text-decoration: none;
+}
+

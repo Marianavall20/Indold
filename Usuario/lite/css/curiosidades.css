@@ -1,0 +1,205 @@
+#sub{
+    color: #009efb;
+}
+.c1 {
+    background-color: rgb(245, 170, 99);
+    margin-left: 40px;
+    margin-top: 10px;
+    width: 300px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px; 
+}
+
+.c1:hover {
+    background-color: rgb(255, 174, 98);
+}
+
+.c1 img {
+    margin-top: 26px;
+    margin-left: 0px;
+}
+
+.c1 p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -75px;
+    padding-right: 5px;
+}
+/*caja2*/
+.c2 {
+    background-color: rgb(246, 166, 255);
+    margin-left: 420px;
+    margin-top: -150px;
+    width: 250px;
+    height: 200px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px; 
+}
+
+.c2:hover {
+    background-color: rgb(244, 146, 255);
+}
+
+.c2 p {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+/*Caja3*/
+.c3 {
+    background-color: rgb(56, 124, 250);
+    float: right;
+    margin-right: 30px;
+    margin-top: -200px;
+    width: 300px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px; 
+}
+
+.c3:hover {
+    background-color: rgb(28, 107, 255);
+}
+
+.c3 img {
+    margin-top: 26px;
+    margin-left: 0px;
+    
+}
+
+.c3 p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -70px;
+    padding-right: 5px;
+}
+/*caja4*/
+.c4 {
+    background-color: rgb(206, 121, 255);
+    margin-left: 70px;
+    margin-top: -10px;
+    width: 250px;
+    height: 130px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px; 
+}
+
+.c4:hover {
+    background-color: rgb(194, 89, 255);
+}
+
+.c4 p {
+    font-size: 15px;
+    text-align: center;
+
+}
+
+/*Caja5*/
+.c5{
+    background-color: rgb(255, 123, 123);
+    margin-left: 390px;
+    margin-top: -100px;
+    width: 300px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px; 
+}
+
+.c5:hover{
+    background-color: rgb(255, 92, 92);
+}
+
+.c5 img {
+    margin-top: 26px;
+    margin-left: -5px;
+}
+
+.c5 p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 50px;
+    margin-top: -70px;
+    padding-right: 5px;
+}
+/*caja6*/
+.c6 {
+    background-color: rgb(69, 235, 179);
+    float: right;
+    margin-right: 30px;
+    margin-top: -220px;
+    width: 280px;
+    color: #fff;
+    padding: 20px;
+    border-radius: 5px; 
+}
+
+.c6:hover {
+    background-color: rgb(43, 221, 162);
+}
+
+.c6 p {
+    font-size: 15px;
+    text-align: center;
+
+}
+/*Caja7*/
+.c7{
+    background-color: rgb(92, 182, 255);
+    margin-left: 40px;
+    margin-top: -10px;
+    width: 270px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px; 
+    margin-bottom: 30px;
+}
+
+.c7:hover{
+    background-color: rgb(61, 152, 226);
+}
+
+.c7 img {
+    margin-top: 35px;
+    margin-left: -5px;
+}
+
+.c7 p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 60px;
+    margin-top: -90px;
+    padding-right: 5px;
+}
+
+/*Caja8*/
+.c8{
+    background-color: rgb(216, 200, 55);
+    float: right;
+    margin-right: 70px;
+    margin-top: -140px;
+    width: 600px;
+    height: 100px;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px; 
+    margin-bottom: 30px;
+}
+
+.c8:hover{
+    background-color: rgb(233, 215, 52);
+}
+
+
+.c8 p {
+    font-size: 15px;
+    text-align: center;
+    margin-left: 10px;
+    margin-top: 10px;
+    padding-right: 5px;
+}

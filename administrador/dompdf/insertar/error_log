@@ -1,3 +1,0 @@
-[24-Oct-2018 19:51:24 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bibliot1/public_html/administrador/insertar/guardar_talleres.php on line 5
-[24-Oct-2018 19:54:54 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bibliot1/public_html/administrador/insertar/guardar_talleres.php on line 5
-[24-Oct-2018 19:59:01 America/Bogota] PHP Warning:  file_get_contents(): Filename cannot be empty in /home/bibliot1/public_html/administrador/insertar/guardar_talleres.php on line 5

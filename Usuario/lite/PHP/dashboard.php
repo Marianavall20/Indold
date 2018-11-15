@@ -6,12 +6,12 @@ if(isset($_SESSION['usuario'])) {?>
 
 
 <?php 
-$host = "mysql.gestionrecursoshumanos.org";
-$usuariodb = "user_contadorepa";
-$clavedb = "Contador2018";
-$basededatos = "contadorepa";
+$host = "localhost";
+$usuariodb = "root";
+$clavedb = "";
+$basededatos = "contador";
 $conexion = mysql_connect($host, $usuariodb, $clavedb);
-mysqli_select_db($basededatos, $conexion);
+mysql_select_db($basededatos, $conexion);
 $mes = array();
 $consumo = array();
 

@@ -1,3 +1,5 @@
+<meta charset="utf-8">
+
 <?php ob_start();
 $mysqli = new mysqli("localhost", "root", "", "contador");
 
@@ -131,7 +133,7 @@ body{
 </head>
 <body>
 
-<div id="titulo">SERVICIO PÚBLICO DOMICILIARIO DE AGUA</div>
+<div id="titulo">SERVICIO PUBLICO DOMICILIARIO DE AGUA</div>
 <br>
 
 <?php
@@ -143,7 +145,7 @@ body{
 
 <div class="encabezado">
 	<div class="arriba">
-		<br> EMPRESAS PÚBLICAS DE ABEJORRAL E.P.A E.S.P </br>
+		<br> EMPRESAS PUBLICAS DE ABEJORRAL E.P.A E.S.P </br>
 		<br>NIT: 800123369-2</br>
 		<br>CLL 50 N° 52-26</br>
 		<br>Tel: 8647272 Fax: 8647272</br>
@@ -153,10 +155,10 @@ body{
 	<div class="costado_derecho">
 		<p><b>Ruta:</b></p> <?php echo $fila['ruta'] ?> 
 		<div class="an">
-			<p><b> Código:</b></p><?php echo $fila['codigo'] ?>
+			<p><b> Codigo:</b></p><?php echo $fila['codigo'] ?>
 		</div>
 		<br>
-		<p><b>Dirección:</b></p><?php echo $fila['direccion'] ?>
+		<p><b>Direccion:</b></p><?php echo $fila['direccion'] ?>
 		<div class="en">
 			<p><b>Código Postal:</b</p><?php echo $fila['codigo_postal'] ?> 
 		</div>
@@ -170,10 +172,10 @@ body{
 	<div class="costado_izquierdo">
 		<p><b>Fecha límite sin recargo:</b></p><?php echo $fila['sin_recargo'] ?>
 		<div class="on">
-			<p><b>Período facturado:</b></p><?php echo $fila['periodo_facturado'] ?>
+			<p><b>Periodo facturado:</b></p><?php echo $fila['periodo_facturado'] ?>
 		</div>
 		<br>
-		<p><b>Fecha límite con recargo:</b></p><?php echo $fila['con_recargo'] ?>
+		<p><b>Fecha limite con recargo:</b></p><?php echo $fila['con_recargo'] ?>
 		<div class="un">
 			<p><b># de cuentas vencidas:</b></p><?php echo $fila['cuentas_vencidas'] ?>
 		</div>

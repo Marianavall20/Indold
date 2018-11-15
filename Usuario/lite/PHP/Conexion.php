@@ -1,13 +1,13 @@
-<?php
-$local="mysql.gestionrecursoshumanos.org";
-$usuariobd="user_contadorepa";
-$password="Contador2018";
-$db="contadorepa";
-$cone= new mysqli ($local,$usuariobd,$password,$db);
-if($cone->connect_error){
-	echo"error";
+<?php 
+$host = "localhost";
+$basededatos = "contador";
+$usuariodb = "root";
+$clavedb = "";
+$Conexion= new mysqli ($host,$usuariodb,$clavedb,$basededatos);
+if($Conexion->connect_errno){
+	echo "error";
 	exit();
 }
 
 
-?>
+ ?>

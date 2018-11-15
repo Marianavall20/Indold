@@ -11,7 +11,10 @@
  
 if ($cantidad > 0 and $costo > 0){
  
-$consumo_final = ($consumo * $costo_fijo);                      
-echo "$consumo_final ";
+$consumo_final = ($consumo * $costo_fijo);
+ 
+                        
+                            
+                            echo "$consumo_final ";
 
 ?>

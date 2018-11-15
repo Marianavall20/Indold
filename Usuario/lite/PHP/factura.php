@@ -14,8 +14,8 @@ $query = $Conexion->query($sql1);
 
 
 <?php
-$conexion = mysqli_connect("localhost", "root", "");
-mysqli_select_db("contador", $conexion);
+$conexion = mysql_connect("localhost", "root", "");
+mysql_select_db("contador", $conexion);
 
 $meses = array('', 'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre');
 
@@ -27,9 +27,9 @@ for ($x=1; $x<=12;$x=$x+1){
 //Año actual//
 $anno=date('Y');
 
-$sql=mysqli_query("SELECT * FROM consumo");
+$sql=mysql_query("SELECT * FROM consumo");
 
-while($row=mysqli_fetch_array($sql)){
+while($row=mysql_fetch_array($sql)){
 
   $y=date("Y", strtotime($row['mes'])); //Extrae el año //
 
@@ -433,6 +433,6 @@ $query = $Conexion->query($sql1);
 }
 ?>
 
-
+   
 
       

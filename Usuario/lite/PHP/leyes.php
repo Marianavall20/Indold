@@ -103,12 +103,19 @@ $query = $Conexion->query($sql1);
                         </li>
                         
                     </ul>
-                   
+                    <div class="text-center m-t-30">
+                        <a href="salir.php" class="btn btn-danger cerrar"><i class="fa fa-arrow-left" aria-hidden="true"></i> Cerrar sesión</a>
+                    </div>
+
                 </nav>
                 <!-- End Sidebar navigation -->
             </div>
            </aside>
-        
+        <style type="text/css">
+             .cerrar{
+                    margin-top: 195px;
+                    }
+        </style>
         <!-- End Left Sidebar - style you can find in sidebar.scss  -->
         <!-- Page wrapper  -->
       

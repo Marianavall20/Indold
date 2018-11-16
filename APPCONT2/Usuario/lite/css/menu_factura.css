@@ -1,0 +1,361 @@
+body {
+    background-color: #eef5f9;
+    font-family: Century Gothic;
+    
+}
+
+.usuario {
+    background-color: #fff;
+    width: 400px;
+    height: 600px;
+    margin-left: 50px;
+    margin-top: 50px;
+    box-shadow: 0px 5px 5px rgb(201, 195, 195);
+}
+
+.usuario > img {
+    width: 400px;
+    height: 200px;
+}
+
+.circulo {
+    border-radius: 10000px;
+    box-shadow: 0px 5px 5px rgb(189, 185, 185);
+    background-color: #fff;
+    width: 130px;
+    height: 130px;
+    margin-top: -60px;
+    margin-left: 130px;
+    position: absolute;
+}
+
+.circulo > img {
+    width: 110px;
+    height: 110px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 10000px;
+}
+
+h2 {
+    margin-left: 153px;
+    margin-top: 85px;
+}
+
+p {
+    margin-left: 167px;
+    margin-top: -13px;
+}
+
+button {
+    background-color: rgb(21, 64, 156);
+    color: #fff;
+    padding: 10px;
+    width: 100px;
+    border-radius: 200px;
+    border-color:  rgb(21, 64, 156);
+    margin-left: 145px;
+    margin-top: 15px;
+}
+
+.c1 {
+    background-color:;
+    width: 100px;
+    height: 50px;
+    margin-top: 50px;
+    padding: 20px;
+    text-align: center;
+    padding-bottom: 50px;
+}
+
+.c1 p {
+    font-size: 27px;
+    margin-left: -5px;
+    margin-top: -10px;
+}
+
+.c1 span {
+    margin-left: -10px;
+}
+
+.c2 {
+    background-color:;
+    width: 100px;
+    height: 50px;
+    margin-top: -120px;
+    margin-left: 140px;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.c2 p {
+    font-size: 27px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.c2 span {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.c3 {
+    background-color:;
+    width: 80px;
+    height: 50px;
+    margin-top: -120px;
+    margin-left: 280px;
+    padding: 20px;
+    padding-bottom: 50px;
+}
+
+.c3 p {
+    font-size: 27px;
+    margin-left: 10px;
+    margin-top: -10px;
+}
+
+.c3 span {
+    margin-left: 10px;
+    text-align: center;
+}
+
+.factura {
+    width: 600px;
+    height: 250px;
+    background-color: white;
+    box-shadow: 0px 5px 5px rgb(189, 185, 185);
+    float: right;
+    margin-top: -250px;
+    margin-right: 50px;
+}
+
+.factura1 {
+    width: 600px;
+    height: 680px;
+    background-color: white;
+    box-shadow: 0px 5px 5px rgb(189, 185, 185);
+    float: right;
+    margin-top: -250px;
+    margin-right: 50px;
+}
+
+ul {
+    padding: 16px;
+    background-color: #fff;
+    text-decoration: none;
+    border: 2px solid rgb(241, 241, 241);
+    margin-top:0px;
+}
+
+li {
+    display: inline;
+    text-decoration: none;
+}
+
+a {
+    text-decoration: none;
+    color:rgb(71, 71, 71);
+    padding-left: 10px; 
+}
+
+a:hover {
+    color: rgb(57, 57, 216);
+}
+
+.active {
+    padding: 17px;
+    color: blue;
+    text-decoration: none; 
+    border-bottom:2px solid blue;
+    margin-left: -20px;
+    
+}
+
+.active1 {
+    padding: 17px;
+    color: blue;
+    text-decoration: none; 
+    border-bottom:2px solid blue;
+    margin-left: 10px;
+    
+}
+
+#n {
+    margin-left: -13px;
+}
+
+
+
+.b1 {
+    background-color ;
+    width: 150px;
+    height: 70px;
+    text-align: left;
+}
+
+.b1 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.b2 {
+    background-color: ;
+    margin-top:30px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.b2 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.b3 {
+    background-color:;
+    margin-left: 300px;
+    margin-top: -100px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.b3 p {
+    text-align: left;
+    margin-left: -10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.b4 {
+    background-color: ;
+    margin-left: 300px;
+    margin-top:-188px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.b4 p {
+    text-align: left;
+    margin-left: -10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.b5 {
+    background-color:;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.b5 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+
+.factura1 .b1 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.factura1 .b2 {
+    background-color: ;
+    margin-top:10px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.factura1 .b2 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.factura1 .b3 {
+    background-color:;
+    margin-left: 300px;
+    margin-top: -100px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.factura1 .b3 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.factura1 .b4 {
+    background-color: ;
+    margin-left: 300px;
+    margin-top:-168px;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+}
+
+.factura1 .b4 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+.factura1 .b5 {
+    background-color:;
+    width: 150px;
+    height: 100px;
+    text-align: left;
+    margin-top: 50px;
+}
+
+.factura1 .b5 p {
+    text-align: left;
+    margin-left: 10px;
+    padding: 8px;
+    color: rgb(83, 83, 83);
+}
+
+#consumo {
+    text-align: left;
+    font-size: 23px;
+    margin-left: 20px;
+    color: rgb(48, 48, 48);
+    margin-top: 10px;
+}
+
+#linea{
+    color:rgb(189, 185, 185);
+    margin-left: 20px;
+    margin-top: -15px;
+}
+
+.enlaces ul {
+    list-style-type: disc;
+    
+}
+
+.enlaces li {
+    text-decoration: circle;
+    display: block;
+    list-style-type: circle;
+    padding: 5px;
+    margin-left: -20px;
+}

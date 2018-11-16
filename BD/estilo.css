@@ -1,0 +1,38 @@
+body{background-color: #FFFFE0;}
+
+
+
+table{margin-left: 35px;
+      border: solid #008080;
+      background-color: #EEC0CB;}
+
+td,th{border: solid #008080;}
+
+th{font-family: Arial;
+   font-size: 20px;
+   text-align: center;}
+
+td{font-family: Georgia;}
+
+a{text-decoration: none;}
+
+b{font-family: Arial;
+  font-size: 35px;
+  color: #008080;}
+
+li{font-family: Arial;
+  font-size: 35px;
+  color: #008080;
+  margin-left: 150px;
+  margin-top: -55px;}
+
+input{margin-left: 300px;
+      margin-top: -50px;}
+
+button{margin-left: 480px;
+       margin-top: -50px;}
+
+h2{font-family: Arial;
+   color: #008080;
+   margin-left: 300px;}
+

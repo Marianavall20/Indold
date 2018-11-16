@@ -1,0 +1,43 @@
+body{background-color: #FFFFE0;}
+
+.profesor{background-color: #FFFAF0;
+	      border: solid 6px;
+          color: #765890;
+          margin-left: 120px;
+          margin-top: 34px;}
+
+.estudiante{background-color: #FFFAF0;
+	        border: solid 6px;
+            color: #765890;
+            margin-left: 650px;
+            margin-top: -380px;}
+
+.personal{background-color: #FFFAF0;
+	      border: solid 6px;
+          color: #765890;
+          margin-left: 400px;
+          margin-top: 72px;}
+
+th{font-size: 34px;
+   font-family: Verdana;
+   text-decoration:underline;
+   padding-left: 40px;}
+
+td{font-size: 20px;
+   color: #000;
+   font-family: Georgia;
+   padding-left: 15px;
+   padding-right: 15px;
+   padding-top: 5px;}
+
+
+/*Menú*/
+
+.menu{border-bottom: solid 2px;}
+
+p{font-family: Arial;
+  font-size: 25px;
+  text-align: center;}
+
+a{text-decoration: none;}
+

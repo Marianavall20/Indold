@@ -1,0 +1,83 @@
+.foto{
+	width: 15%;
+	height: 200px;
+	margin-left: 250px;
+	margin-top: 10px;
+	border-radius: 10px;
+}
+
+
+
+.nom{
+	margin-left: 213px;
+	height: 22px;
+	width: 250px;
+	border-radius: 5px;
+    background-color: #04B4AE;
+}
+
+div#ir{
+	margin-left: 18px;
+}
+
+div#buenas{
+	margin-top: 150px;
+	margin-left: 150px;
+}
+
+img.gmail{
+	width: 30px;
+	height: 30px;
+	margin-left: 250px;
+}
+p{text-align: center;}
+h1{margin-left: 370px;
+   margin-top: -40px;}
+
+h2{
+	margin-top: 200px;
+}
+h6{
+	margin-left: 300px;
+	font-size: 15px;
+	margin-top: -25px;
+}
+
+form{
+	width: 350px;
+	margin-left: 730px;
+	margin-top: -460px;
+}
+input{
+	width: 450px;
+    padding: 10px;
+    margin-top: 12px;
+    margin-left:20px;
+}
+
+form.contrasena{
+	margin-top: -100px;
+	margin-left: 390px;
+}
+
+input.tex{
+	margin-left: 260px;
+	width: 800px;
+}
+
+input[type="submit"]{
+	width: 450px;
+	height: 40px;
+	background-color: #00b19c;
+	color: #fff;
+	font-size: 20px;
+}
+
+input[type="submit"].tex{
+	width: 800px;
+	height: 40px;
+	background-color: #00b19c;
+	color: #fff;
+	font-size: 20px;
+	margin-bottom: 30px;
+}

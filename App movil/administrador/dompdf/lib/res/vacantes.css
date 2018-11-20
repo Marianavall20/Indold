@@ -1,0 +1,105 @@
+
+.tab-content p{
+	color: #000;
+	font-size: 20px;
+	padding-top: 20px;
+	padding-left: 250px;
+	margin-top: -150px;
+	text-align: justify;
+}
+.container h2 {
+	margin-top: -100px;
+	margin-left: 300px;
+	
+	color: #6E6E6E;
+}
+.foto{
+	background-size: 250px;
+	margin-top: 50px;
+}
+.container ul {
+	margin-top: 80px;
+	margin-left: 300px;
+	position: relative;
+}
+.tab-content{
+	margin-left: 300px;
+}
+.titulos a{
+	color: #00b19c;
+	font-size: 20px;
+}
+
+
+.titulo{
+	margin-top: 140px;
+	margin-left: 350px;
+}
+
+.title{
+	margin-top: -35px;
+	margin-left: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 80px;
+	color: #585858;
+	font-size: 35px;
+
+}
+
+
+div#tabla{
+	
+	width: 600px;
+	margin-left: 130px;
+	margin-top:145px;
+}
+
+.fecha{
+	margin-top: 100px;
+	margin-left: 30px;
+}
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+
+}
+
+tr td{
+	padding: 10px;
+	text-align: center;
+
+}
+
+thead{
+	background-color: #E0F2F7;
+	border-bottom: solid 3px black;
+	color: #00b19c;
+	width: 100px;
+	margin-top: 90px;
+	font-size: 13px;
+}
+
+tr th{
+	padding: 10px;
+	text-align: center;
+}
+
+tr:nth-child(even){
+	background-color: #FAFAFA;
+}
+
+.fade h3{
+	margin-top: 25px;
+	margin-left: 15px;
+	color: #0B615E;
+	font-size: 21px;
+}
+
+.añadir{
+	margin-left: 325px;
+	margin-top: 25px;
+	padding: 5px;
+}
+

@@ -1,0 +1,43 @@
+
+#tabla{
+	
+	width: 400px;
+	margin-left: 410px;
+	margin-top: 70px;
+	margin-top:  90px;
+	width: 800px;
+    margin-left: 430px;
+}
+
+.fecha{
+	margin-top: 100px;
+	margin-left: 30px;
+}
+table{
+	background-color: white;
+	text-align: left;
+	border-collapse: collapse;
+	width: 100%;
+
+}
+
+tr td{
+	padding: 10px;
+
+}
+
+thead{
+	background-color: #00b19c;
+	border-bottom: solid 3px black;
+	color: white;
+	width: 30px;
+	margin-top: 100px;
+}
+
+tr th{
+	padding: 10px;
+}
+
+tr:nth-child(even){
+	background-color: #ddd;
+}

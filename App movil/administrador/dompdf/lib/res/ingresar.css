@@ -1,0 +1,149 @@
+.boton{
+	margin-left: 500px;
+	margin-top: -90px;
+	
+	
+}
+
+.boton h3{
+	margin-left: 200px;
+	width: 500px;
+}
+
+.boton button{
+	margin-left: -102px;
+}
+.tabla{
+	
+	width: 400px;
+	margin-left: 230px;
+	margin-top:-35px;
+	margin-right: -200px;
+}
+
+.fecha{
+	margin-top: 100px;
+	margin-left: 30px;
+}
+
+table{
+  background-color: white;
+  text-align: left;
+  border-collapse: collapse;
+  width: 60%; 
+  margin-left:-720px;
+  margin-top: -300px;
+  margin-right: 200px;
+}
+
+
+tr td{
+  padding: 10px;
+  text-align: center;
+
+}
+
+thead{
+  background-color: #E0F2F7;
+  border-bottom: solid 3px black;
+  color: #00b19c;
+  width: 80px;
+  margin-top: 90px;
+  font-size: 13px;
+}
+
+tr th{
+  padding: 10px;
+  text-align: center;
+}
+
+tr:nth-child(even){
+  background-color: #FAFAFA;
+}
+
+.boton button{
+	background-color: #00b19c;
+}
+
+.boton button header{
+	background-color: #33cccc;
+}
+
+.ordinarias{
+	width: 200px;
+	height: 150px;
+	background-color: #00b19c;
+	margin-top: 20px;
+	margin-left: 0px;
+	font-family: georgia;
+	color: #000;
+}
+.ordinarias2{
+	width: 200px;
+	height: 150px;
+	background-color: #00b19c;
+	margin-top: -170px;
+	margin-left: 220px;
+	font-family: georgia;
+	color: #000;
+}
+.ordinarias3{
+	width: 200px;
+	height: 150px;
+	background-color: #00b19c;
+	margin-top: -170px;
+	margin-left: 440px;
+	font-family: georgia;
+	color: #000;
+}
+.ordinarias4{
+	width: 200px;
+	height: 150px;
+	background-color: #00b19c;
+	margin-top: -170px;
+	margin-left: 660px;
+	font-family: georgia;
+	color: #000;
+}
+
+a{
+	text-decoration: none;
+}
+
+.container{
+	margin-top: 50px;
+    margin-left: 800px;
+}
+
+
+
+.titulo{
+	margin-top: 140px;
+	margin-left: 400px;
+}
+
+.title{
+	margin-top: -35px;
+	margin-left: 50px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight: 80px;
+	color: #585858;
+	font-size: 35px;
+
+}
+
+.añadir{
+	margin-top: 300px;
+	margin-left: -50px;
+	
+}
+
+p .resultados{
+	width: 50px;
+}
+
+
+.nuevo h4{
+
+}
+

@@ -1,0 +1,123 @@
+*{
+	font-family: sans-serif;}
+
+
+.manual{
+	width: 200px;
+	background-color: #00bea7;
+	border-top-left-radius: 10px;
+	border-bottom-left-radius:10px;
+	padding: 10px;
+	margin-left: 200px;
+	margin-top: 70px;
+	height: 90px;
+	text-align: justify;
+	position: relative;}
+
+.imagen{
+	width: 40px;
+    margin-top:-200px;
+    margin-left: 480px;
+}
+
+.imagen1:hover { 
+	 background-color: rgba(39, 121, 112, 1);
+	 z-index: 1000; 
+	 overflow: hidden;
+	 width: 100px;}
+
+.inferior{
+	width: 200px;
+    margin-left: 450px;
+    margin-top: -5px;
+}
+
+ul{
+	margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 80%;
+    left: 50%;
+    transform: translate(-50%, -50%);}
+
+ul li {
+	list-style: none;
+    float: left;
+    margin:80px 100px;
+    width: 130px;
+    height: 130px;
+    line-height: 120px;
+    text-align: center;
+    background: #00bea7;
+    border-radius: 50%;
+    font-size: 80px;
+    position: relative;
+    transition: .5s ease-in-out;
+    color: #262626; 
+    z-index: 1;
+
+}
+
+ul li:before {
+	content: ' ';
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background:  #61E5C1; 
+    border-radius: 50%;
+    transform: scale(0);
+    transition: .5s ease-in-out;
+    z-index: -1;
+}
+ul li:hover:before{
+	transform: scale(.9);}
+
+ul li:hover{
+	color: #fff;
+}
+
+.registro{
+	margin-top: 60px;
+    margin-left: 400px;
+}
+.text-registro{
+	padding: 10px;
+    width: 280px;
+    text-align: center;
+    margin-top: 180px;
+    margin-left: 350px;}
+
+.tiempo{
+	margin-top: -315px;
+    margin-left: 750px;
+}
+.text-tiempo{
+	padding: 10px;
+    width: 280px;
+    text-align: center;
+    margin-top: 180px;
+    margin-left: 700px;}
+
+.configuracion{
+	margin-top: -10px;
+    margin-left: 430px;
+}
+.text-configuracion{
+	padding: 10px;
+    width: 280px;
+    text-align: center;
+    margin-top: 160px;
+    margin-left: 350px;}
+
+.calendario{
+	margin-top: -293px;
+    margin-left: 775px;
+}
+.text-calendario{
+	padding: 10px;
+    width: 280px;
+    text-align: center;
+    margin-top: 160px;
+    margin-left: 700px;}

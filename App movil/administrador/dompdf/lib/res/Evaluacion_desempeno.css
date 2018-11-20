@@ -1,0 +1,58 @@
+
+table.tecnica {
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    border-collapse: collapse;
+    width: 450px;
+    height: 250px;
+    padding: 10px;
+    margin-left: 350px;
+    margin-top: 80px;
+}
+
+table.psicologica {
+    font-family: arial, sans-serif;
+    font-size: 18px;
+    border-collapse: collapse;
+    width: 450px;
+    height: 250px;
+    padding: 10px;
+    margin-left: 850px;
+    margin-top: -255px;
+}
+
+td {
+    border: 1px solid #dddddd;
+    text-align: left;
+    padding: 10px;
+}
+
+th{
+  width: 400px;
+  margin-left: 40px;
+}
+
+tr:nth-child(even) {
+    background-color: #dddddd;
+}
+
+img.ad{
+  margin-top: 150px;
+}
+div.chec{
+  margin-left: 535px;
+  margin-top: -60px;
+}
+
+img.che{
+  width: 40px;
+  height: 40px;
+}
+
+p.ev{
+  margin-left: 610px;
+  margin-top: 180px;
+  font-family: georgia;
+  font-size: 40px;
+  color: #585858;
+}

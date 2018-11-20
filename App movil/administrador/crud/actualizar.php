@@ -14,7 +14,7 @@
   $estado= $_POST['estado'];     
   $usuario = $_POST['usuario'];
   $contrasena = $_POST['contrasena']; 
-  $id= id
+  $id= id contrasena
   $contrasena
   
 

@@ -3,7 +3,7 @@
 if(!empty($_GET)){
      include("../conexion/conexion2.php");
 
-     $sql = "DELETE FROM contador WHERE id=".$_GET["id"];
+     $sql = "DELETE FROM contador WHERE id_registro=".$_GET["id"];
      $query = $cone->query($sql);
      if($query!=null){
        print "<script>alert(\"Eliminado exitosamente.\");window.location='../php/factura.php';</script>";

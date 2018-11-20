@@ -10,7 +10,7 @@ if(!empty($_GET)){
      }else{
        print "<script>alert(\"No se pudo eliminar.\");window.location='../php/factura.php';</script>";
 
-     } ackvbfbd
+     } 
 }
 
 ?>

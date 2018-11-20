@@ -1,5 +1,5 @@
 <?php
-$local="localhost";
+$local="localhostwww";
 $usuariobd="root";
 $password="";
 $db="contador";

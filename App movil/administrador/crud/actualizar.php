@@ -16,7 +16,7 @@
   $contrasena = $_POST['contrasena']; 
   
 
-  $sql = $mysqli->query ("UPDATE registro_trabajadores SET identificacion='$identificacion', nombres='$nombres', primer_apellido='$primer_apellido',segundo_apellido='$segundo_apellido', telefono='$telefono', direccion='$direccion', email='$email', estado='$estado', usuario='$usuario', contrasena='$contrasena' WHERE id_usuario='$id'");
+  $sql = $mysqli->query ("UPDATE registro_trabajadores SET identificacion='$identificacion', nombres='$nombres', primer_apellido='$primer_apellido',segundo_apellido='$segundo_apellido', telefono='$telefono', direccion='$direccion', email='$email', estado='$estado', usuario='$usuario, contrasena='$contrasena' WHERE id_usuario='$id'");
 ?>  
 
    <SCRIPT LANGUAGE="javascript"> 

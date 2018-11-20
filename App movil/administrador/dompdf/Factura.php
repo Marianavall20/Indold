@@ -10,7 +10,7 @@ $result = $mysqli-> query($query);
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Administrador</title>
   <meta charset="utf-8">
 
 <style type="text/css">

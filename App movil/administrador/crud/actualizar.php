@@ -4,7 +4,7 @@
   $mysqli = new mysqli("localhost", "root", "", "contador"); 
 
   $id=$_POST['id'];
-  $identificacion = $_POST['identificacion'];
+  
   $nombres =  $_POST['nombres'];
   $primer_apellido =  $_POST['primer_apellido'];
   $segundo_apellido =  $_POST['segundo_apellido'];  

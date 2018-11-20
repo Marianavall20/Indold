@@ -14,6 +14,7 @@
   $estado= $_POST['estado'];     
   $usuario = $_POST['usuario'];
   $contrasena = $_POST['contrasena']; 
+  $id= 
   
 
   $sql = $mysqli->query ("UPDATE registro_trabajadores SET identificacion='$identificacion', nombres='$nombres', primer_apellido='$primer_apellido',segundo_apellido='$segundo_apellido', telefono='$telefono', direccion='$direccion', email='$email', estado='$estado', usuario='$usuario', contrasena='$contrasena' WHERE id='$id'");

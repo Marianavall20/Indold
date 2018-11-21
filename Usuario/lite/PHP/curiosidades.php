@@ -56,7 +56,7 @@ if(isset($_SESSION['usuario'])) {?>
                                      <!-- Start Page Content -->
 <?php
 
-include "Conexion.php";
+include "conexion.php";
 
 $sql1= "select * from factura";
 $query = $Conexion->query($sql1);

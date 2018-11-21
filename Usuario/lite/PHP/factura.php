@@ -14,7 +14,7 @@ $query = $Conexion->query($sql1);
 
 
 <?php
-$conexion = mysql_connect("www.biblioteca-web.com", "root", "");
+$conexion = mysql_connect("www.biblioteca-web.com", "bibliot1", "");
 mysql_select_db("contador", $conexion);
 
 $meses = array('', 'Enero', 'Febrero', 'Marzo', 'Abril', 'Mayo', 'Junio', 'Julio', 'Agosto', 'Septiembre', 'Octubre', 'Noviembre', 'Diciembre');

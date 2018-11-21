@@ -39,7 +39,7 @@ while($row=mysql_fetch_array($sql)){
   $dinero[$month]=$dinero[$month]+$row['consumo'];
   }
 }
-
+sfghfs
 ?>
 
 <html>

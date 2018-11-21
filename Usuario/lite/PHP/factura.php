@@ -35,7 +35,7 @@ while($row=mysql_fetch_array($sql)){
 
   $month=(int)date("m", strtotime($row['mes'])); //Extrae el mes //
 
-  if($y==$anno){
+  if($y==$ano){
   $diner[$month]=$dinero[$month]+$row['consumo'];
   }
 }

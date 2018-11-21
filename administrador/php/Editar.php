@@ -9,7 +9,6 @@
                         <th>Dirección</th>
                         <th>Email</th>
                         <th>Usuario</th>                        
-                        </tr>
                       </thead>
                       <tbody>
                       <tr>

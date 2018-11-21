@@ -58,7 +58,7 @@ if(isset($_SESSION['usuario'])) {?>
 
 include "conexion.php";
 
-$sql1= "select * from factura";
+$sql1= "select id from factura";
 $query = $Conexion->query($sql1);
 ?>
 <?php if($query->num_rows>0):?>                       

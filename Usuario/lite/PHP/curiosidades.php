@@ -1,6 +1,6 @@
 <?php
 session_start();
-include("Conexion.php");
+include("conexion.php");
 
 if(isset($_SESSION['usuario'])) {?>
 

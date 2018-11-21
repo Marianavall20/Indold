@@ -78,7 +78,7 @@ if(isset($_SESSION['usuario'])) {?>
             <div class="avatar"><img src="../img/avatar-1.jpg" alt="..." class="img-fluid rounded-circle"></div>
             <div class="title">
               <h1 class="h4">Nombre del Administrador</h1>
-              <p>Administrador</p>
+              <p></p>
             </div>
           </div>
          

@@ -2,7 +2,7 @@
                       <thead>
                         <tr>
                         <th>Id</th>
-                        <th>Nombres</th>
+                        <th></th>
                         <th>Apellidos</th>
                         <th>Identidad</th>
                         <th>Teléfono</th>
